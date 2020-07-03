@@ -4,4 +4,4 @@ D2 (doubledash) is a [Web Component](https://developer.mozilla.org/en-US/docs/We
 ---
 
 ## Published Components
-- **[\<p-- /\>](https://eiiisd.github.io/D2/public/lib/P.js)** is an inline wrapper for the [fakeJSON](https://www.fakejson.com) customString API.
+- **[\<p-- /\>](https://eiiisd.github.io/D2/public/lib/P.js)** is an inline wrapper for the fakeJSON [customString API](https://fakejson.com/documentation#field_custom).
