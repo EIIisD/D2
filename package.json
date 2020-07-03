@@ -19,14 +19,17 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@rollup/plugin-json": "^4.1.0",
     "bezier-easing": "^2.1.0",
     "cjs": "^0.0.11",
     "d3": "^5.16.0",
     "d3-color": "^1.4.1",
     "d3-interpolate": "^1.4.0",
     "emotion": "^10.0.27",
+    "fast-glob": "^3.2.4",
     "favicon-emoji": "https://github.com/eIIisd/favicon-emoji.git",
     "file-saver": "^2.0.2",
+    "jsonfile": "^6.0.1",
     "lodash": "^4.17.15",
     "now": "^17.1.1",
     "pts": "^0.9.1",
