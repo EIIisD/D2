@@ -7,7 +7,7 @@ export default {
     'src/Two/Two.svelte',
   ],
   output: {
-    dir: 'dist/module',
+    dir: 'dist',
     format: 'esm',
     // sourcemap: true,
   },
