@@ -4,4 +4,4 @@
 ---
 
 ## Published Components
-- **[\<p-- /\>](https://eiiisd.github.io/D2/public/lib/P.js)** is an inline wrapper for the fakeJSON [customString API](https://fakejson.com/documentation#field_custom).
+- [\<p-- /\>](https://eiiisd.github.io/D2/public/lib/P.js) is an inline wrapper for the fakeJSON [customString API](https://fakejson.com/documentation#field_custom).
