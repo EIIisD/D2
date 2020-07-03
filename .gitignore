@@ -1,3 +1,5 @@
 .DS_Store
+.vscode
+yarn.lock
 node_modules
 /dist/
