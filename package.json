@@ -1,17 +1,39 @@
 {
   "name": "scaffold-lib",
   "description": "Scaffold components package",
+  "version": "1.0.0",
   "scripts": {
+    "dev": "rollup -c -w",
     "build": "rollup -c",
-    "prepublishOnly": "npm run build"
+    "start": "sirv public",
+    "deploy": "rollup -c && yarn now --prod"
   },
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^6.0.0",
+    "@rollup/plugin-commonjs": "^11.0.0",
+    "@rollup/plugin-node-resolve": "^7.0.0",
+    "carbon-icons-svelte": "^10.13.0",
     "rollup": "^1.20.0",
-    "rollup-plugin-svelte": "^5.0.0",
+    "rollup-plugin-livereload": "^1.0.0",
+    "rollup-plugin-svelte": "^5.0.3",
+    "rollup-plugin-terser": "^5.1.2",
     "svelte": "^3.0.0"
   },
-  "version": "1.0.0",
-  "author": "Ellis Donovan",
-  "license": "MIT"
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "cjs": "^0.0.11",
+    "d3": "^5.16.0",
+    "d3-color": "^1.4.1",
+    "d3-interpolate": "^1.4.0",
+    "emotion": "^10.0.27",
+    "favicon-emoji": "https://github.com/eIIisd/favicon-emoji.git",
+    "file-saver": "^2.0.2",
+    "lodash": "^4.17.15",
+    "now": "^17.1.1",
+    "pts": "^0.9.1",
+    "rollup-plugin-svelte-svg": "^0.2.3",
+    "sirv-cli": "^0.4.4",
+    "svelte-css-in-js": "^1.0.3",
+    "svelte-debugger": "^1.0.3",
+    "svelte-dnd-action": "^0.2.2"
+  }
 }

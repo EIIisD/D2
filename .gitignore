@@ -1,4 +1,10 @@
+/node_modules/
+/public/fonts/
+/public/jpg/
+/src/
 .DS_Store
+.now
 .vscode
 yarn.lock
 node_modules
+.vscode/settings.json
