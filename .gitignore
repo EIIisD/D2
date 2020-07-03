@@ -13,3 +13,5 @@ node_modules
 .vscode/settings.json
 public/build/bundle.js
 public/build/bundle.js.map
+rollup.config.js
+.vscode/settings.json
