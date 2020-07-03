@@ -1,5 +1,5 @@
 # D2
-[D2 (doubledash)](https://github.com/eIIisd/D2) is a [Web Component](https://developer.mozilla.org/en-US/docs/Web/Web_Components) library.
+[D2 (doubledash)](https://github.com/eIIisd/D2) is a semi-public [Web Component](https://developer.mozilla.org/en-US/docs/Web/Web_Components) library.
 
 ---
 
