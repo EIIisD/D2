@@ -1,5 +1,5 @@
 {
-  "name": "scaffold",
+  "name": "scaffold-lib",
   "description": "Scaffold components package",
   "scripts": {
     "build": "rollup -c",
