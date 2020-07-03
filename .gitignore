@@ -1,4 +1,7 @@
 /node_modules/
+/public/favicon.ico
+/public/index.html
+/public/build/
 /public/fonts/
 /public/jpg/
 /src/
