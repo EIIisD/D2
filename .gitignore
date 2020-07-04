@@ -5,6 +5,7 @@
 /public/fonts/
 /public/jpg/
 /src/
+/dev/
 .DS_Store
 .now
 .vscode
